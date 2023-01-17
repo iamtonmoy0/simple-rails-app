@@ -9,3 +9,4 @@ module StaticPageHelper
 		
 	end
 end
+
